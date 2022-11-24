@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">bmi</string>
+    <string name="cek_berat_badan">Cek Berat Badan</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="hasil_diagnosis">Hasil Diagnosis</string>
+    <string name="masukkan_tinggi_badan">Masukkan tinggi badan</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="exit">Exit</string>
+    <string name="nama">Nama</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="berat_badan">Berat Badan</string>
+    <string name="masukkan_berat_badan">Masukkan berat badan</string>
+    <string name="clear">Clear</string>
+    <string name="cek_in">Cek In</string>
+</resources>
